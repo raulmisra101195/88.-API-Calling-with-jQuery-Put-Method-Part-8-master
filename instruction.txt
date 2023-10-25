@@ -1,0 +1,4 @@
+https://fakerestapi.azurewebsites.net/index.html
+
+https://codeseven.github.io/toastr/
+https://sweetalert.js.org/guides/
